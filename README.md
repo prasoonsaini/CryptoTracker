@@ -1,2 +1,2 @@
 
-View Live Website : prasoonsaini.github.io/Cryptotracker
+View Live Website : prasoonsaini.github.io/CryptoTracker
